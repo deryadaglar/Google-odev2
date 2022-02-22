@@ -1,0 +1,122 @@
+.div1 {
+    padding: 20px;
+    width: 500px;
+    float: left;
+}
+
+.link1 {
+    text-decoration: none;
+    margin-right: 10px;
+    color:grey;
+}
+.link1:hover {
+    text-decoration: underline;
+}
+
+.div2 {
+    float: right;
+    padding: 20px;
+    margin-right: 10px;
+}
+
+.div3 {
+    float: left;
+    padding-top: 3px;
+}
+
+.div4 {
+    float: left;
+    padding-left: 5px;
+}
+
+.link2 {
+    text-decoration: none;
+    margin-right: 10px;
+    color:rgb(34, 33, 33)
+}
+.link2:hover {
+    text-decoration: underline;
+    color:gray;
+}
+.div5 {
+    float: left;
+    margin-top: 3px;
+}
+.btn {
+    background: -webkit-linear-gradient(top,#3c7ae4,#3f76d3);
+    color:white;
+    text-decoration: none;
+    padding: 7px 15px;
+    margin-left: 10px;
+}
+
+.content {
+    margin: auto;
+}
+
+.condiv1 {
+    padding-top: 200px;
+    text-align: center;
+}
+.condiv2 {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.arama {
+    border-radius: 30px;
+    width: 600px;
+    height: 40px;
+    border: solid #dfe1e5;
+    background-image: url("https://icon-library.com/images/search-icon-image/search-icon-image-15.jpg");
+    background-size: 25px;
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+    outline: none;
+    padding-inline-start: 40px;
+}
+.arama:hover {
+    -webkit-box-shadow: 2px 2px 5px 2px rgba(0,0,0,0.3) ;
+    box-shadow: 2px 2px 5px 2px rgba(0,0,0,0.3) ;
+}
+.clas1 {
+    margin-right: 20px;
+    height: 35px;
+    width: 130px;
+    border: 0px;
+}
+.clas1:hover {
+    border: 0.2px solid #121213;
+}
+
+
+footer{
+    background-color: #f2f2f2;
+    position: fixed;
+    bottom:0px;
+    left: 0px;
+    padding: 15px;
+    border-top: 1px solid #cecbcb;
+    width: 100%;
+}
+
+.fd1 {
+    float: left;
+    margin-left: 25px;
+}
+
+.fd2 {
+    float: right;    
+    margin-right: 50px;
+}
+
+.link3 {
+    color:rgb(83, 77, 77);
+    text-decoration: none;
+    padding-right: 15px;
+}
+.link3:hover {
+    text-decoration: underline;
+}
+
+
